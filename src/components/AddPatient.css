@@ -1,0 +1,10 @@
+input .form-control {
+    width: 100px;
+}
+
+.popup {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
